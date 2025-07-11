@@ -1,6 +1,8 @@
 # TinyML Accelerator
 
-此仓库 (Started at 2025-06-29) 是本人学习 FPGA 和 机器学习的硬件加速 ***from scratch*** 的代码产出. 相关资料见 [Here](https://marcobisky.github.io/tinyml/).
+此仓库 (Started at 2025-06-29) 是本人学习 FPGA 和 机器学习的硬件加速 ***from scratch*** 的代码产出.
+
+有关资料见: [TinyML Project](https://marcobisky.github.io/tinyml/).
 
 ## What you need
 
@@ -11,4 +13,4 @@
 
 ## CFU-playground 和 iCESugar 环境搭建
 
-[FPGA 开发环境配置](https://marcobisky.github.io/tinyml/env-setup.html).
+[FPGA 开发环境配置](https://marcobisky.github.io/tinyml/env-setup.html)

@@ -1,0 +1,3 @@
+[submodule "CFU-Playground"]
+	path = CFU-Playground
+	url = https://github.com/Marcobisky/CFU-Playground.git
