@@ -16,7 +16,7 @@ $(TOP).bin: $(TOP).asc
 	icepack $(TOP).asc $(TOP).bin
 
 clean:
-	rm -f $(TOP).json $(TOP).asc $(TOP).
+	rm -f $(TOP).json $(TOP).asc $(TOP).bin
 
 # Programming: only Linux will work, drag .bin to the iCESugar drive on MacOS
 prog: $(TOP).bin

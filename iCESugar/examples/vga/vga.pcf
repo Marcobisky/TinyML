@@ -1,0 +1,28 @@
+# Pin constraints for VGA on iCESugar board
+# Using PMOD2 and PMOD3 for VGA interface
+
+# System clock (12MHz)
+set_io clk 35
+
+# VGA signals on PMOD2
+set_io P2_1  46    # HSYNC
+set_io P2_2  44    # VSYNC  
+set_io P2_3  42    # Red[0]
+set_io P2_4  37    # Red[1]
+set_io P2_9  36    # Red[2]
+set_io P2_10 38    # Red[3]
+set_io P2_11 43    # Green[0]
+set_io P2_12 45    # Green[1]
+
+# VGA signals on PMOD3
+set_io P3_1  34    # Green[2]
+set_io P3_2  31    # Green[3]
+set_io P3_3  27    # Blue[0]
+set_io P3_4  25    # Blue[1]
+set_io P3_9  23    # Blue[2]
+set_io P3_10 26    # Blue[3]
+
+# Status LEDs
+set_io LED_R 40
+set_io LED_G 41
+set_io LED_B 39

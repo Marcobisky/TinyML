@@ -1,2 +1,2 @@
 set_io clki 35    # 12MHz clock input
-set_io led1 39    # RGB LED Green
+set_io led1 40    # RGB LED Red
