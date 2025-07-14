@@ -3,3 +3,6 @@
 *.bin
 *.json
 *.rpt
+scheme/
+gpu/
+*.dot
