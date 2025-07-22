@@ -4,7 +4,7 @@ This repository (Started at 2025-06-29) is my code output for learning FPGA and 
 
 <!-- 此仓库 (Started at 2025-06-29) 是本人学习 FPGA 和 机器学习的硬件加速 ***from scratch*** 的代码产出. -->
 
-Relevant materials can be found at: [TinyML Project](https://marcobisky.github.io/tinyml/).
+Relevant materials can be found at: [TinyML Project](https://marcobisky.moe/tinyml/).
 
 <!-- 有关资料见: [TinyML Project](https://marcobisky.github.io/tinyml/). -->
 
@@ -22,7 +22,7 @@ We will use two FPGA development boards:
 
 ## Environment Setup for CFU-playground and iCESugar
 
-[Env setup lang-cn](https://marcobisky.github.io/tinyml/env-setup.html)
+[Env setup lang-cn](https://marcobisky.moe/tinyml/env-setup.html)
 
 ## Generate Schematics for Visualization
 
