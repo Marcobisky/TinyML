@@ -5,4 +5,4 @@
 *.rpt
 scheme/
 gpu/
-*.dot/gpu
+*.dot
